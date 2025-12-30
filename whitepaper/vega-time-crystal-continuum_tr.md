@@ -1,4 +1,4 @@
-# VEGA TIME CRYSTAL CONTINUUM
+# VEGA Time Crystal Continuum
 
 ## A Conceptual White Paper
 
@@ -11,21 +11,21 @@
 
 ## Executive Summary
 
-This white paper introduces **VEGA TIME CRYSTAL CONTINUUM** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This white paper introduces **VEGA Time Crystal Continuum** as a conceptual framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
-VEGA TIME CRYSTAL CONTINUUM is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
+VEGA Time Crystal Continuum is not an implementation, algorithm, or product. It is a theoretical contribution to meaning-based computation.
 
 ---
 
 ## 1. Introduction
 
-Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA TIME CRYSTAL CONTINUUM addresses this gap conceptually.
+Modern AI systems excel at processing information but struggle to maintain meaning, insight, and wisdom over time. VEGA Time Crystal Continuum addresses this gap conceptually.
 
 ---
 
 ## 2. Definition
 
-**VEGA TIME CRYSTAL CONTINUUM** is defined as:
+**VEGA Time Crystal Continuum** is defined as:
 
 - A conceptual framework for meaning representation
 - Part of the Vega Continuum ecosystem
@@ -64,7 +64,7 @@ Modern AI systems excel at processing information but struggle to maintain meani
 
 ## 6. Ecosystem Context
 
-VEGA TIME CRYSTAL CONTINUUM is part of:
+VEGA Time Crystal Continuum is part of:
 
 - **VEGA** – The operating system of meaning
 - **INŞÆVREN** – Universal creation framework
